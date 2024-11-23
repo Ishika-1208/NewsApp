@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useEffect, useState } from 'react'
 import Card from './Card'
 
@@ -61,6 +62,14 @@ const Newsapp = () => {
         </div>
     </div>
   )
+=======
+import React from 'react'
+
+const Newsapp = () => {
+    return (
+        <div>Newsapp</div>
+    )
+>>>>>>> b6daa825880924afc1335f162262daeb1506061f
 }
 
 export default Newsapp
